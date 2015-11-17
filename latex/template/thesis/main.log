@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.16)  16 NOV 2015 12:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.16)  17 NOV 2015 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1159,19 +1159,9 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
-Runaway argument?
-{\href {http://department.university.com}{{Freie Universität Berlin}\ETC.
-! Paragraph ended before \university was complete.
-<to be read again> 
-                   \par 
-l.65 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
+
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 )
@@ -1180,23 +1170,23 @@ Package csquotes Info: ... found 'babel' package.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 68.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
@@ -1348,14 +1338,14 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package scrbase Info: activating english \equationnamenname on input line 70.
-Package scrbase Info: activating english \sectionname on input line 70.
-Package scrbase Info: activating english \authorshipname on input line 70.
-Package scrbase Info: activating english \byname on input line 70.
-Package scrbase Info: activating english \abbrevname on input line 70.
-Package scrbase Info: activating english \constantsname on input line 70.
-Package scrbase Info: activating english \symbolsname on input line 70.
-Package scrbase Info: activating english \acknowledgementname on input line 70.
+Package scrbase Info: activating english \equationnamenname on input line 68.
+Package scrbase Info: activating english \sectionname on input line 68.
+Package scrbase Info: activating english \authorshipname on input line 68.
+Package scrbase Info: activating english \byname on input line 68.
+Package scrbase Info: activating english \abbrevname on input line 68.
+Package scrbase Info: activating english \constantsname on input line 68.
+Package scrbase Info: activating english \symbolsname on input line 68.
+Package scrbase Info: activating english \acknowledgementname on input line 68.
 
 \AtBeginShipoutBox=\box53
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
@@ -1367,7 +1357,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 68.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1377,9 +1367,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count362
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1398,77 +1388,19 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 70.
-Package biblatex Info: Reference segment=0 on input line 70.
+Package biblatex Info: Reference section=0 on input line 68.
+Package biblatex Info: Reference segment=0 on input line 68.
 \c__siunitx_mathsf_int=\count363
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 70.
+(Font)              <10.95> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 68.
 \c__siunitx_mathtt_int=\count364
-
-! Undefined control sequence.
-<argument> \LARGE \univname 
-                            
-l.83 \textsc{\LARGE \univname}
-                              \\[1.5cm] % University name
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 87.
-! Undefined control sequence.
-l.105 \groupname
-                \\\deptname\\[2cm] % Research group name and department name
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.105 \groupname\\
-                  \deptname\\[2cm] % Research group name and department name
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-<recently read> \deptname 
-                          
-l.105 \groupname\\\deptname
-                           \\[2cm] % Research group name and department name
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.105 \groupname\\\deptname\\
-                             [2cm] % Research group name and department name
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 85.
+ [1
 
 
 
@@ -1478,15 +1410,15 @@ or  <return>  to continue without it.
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 124.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 122.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
@@ -1498,41 +1430,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--130
 --------------------
  Abstract
 --------------------
-! Undefined control sequence.
-<argument> \univname 
-                     
-l.155 \begin{abstract}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\abstract ...par } \bigskip {\normalsize \facname 
-                                                  \par } {\normalsize \deptn...
-l.155 \begin{abstract}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\abstract ...acname \par } {\normalsize \deptname 
-                                                  \par } \bigskip {\normalsi...
-l.155 \begin{abstract}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 155.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 153.
 [7] [8
 
 ]
@@ -1543,14 +1442,14 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 179.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 178.
  (./main.toc
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 19.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 17.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 19.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 17.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1585,76 +1484,72 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10.95> not available
 ] (./Chapters/Chapter1.tex
 Chapter 1.
 --------------------
- 1. Chapter Title Here
+ 1. Introduction
 --------------------
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
+
+Overfull \hbox (61.14157pt too wide) in paragraph at lines 27--27
+[]\T1/ppl/b/n/14.4 mitochondrial DNA(mtDNA) & nu-clear mi-to-chondi-ral DNA(num
+ts) 
+ []
+
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
 [1
 
 ] [2] [3]
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 136.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 121.
  [4]
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <10.95> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 168.
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 153.
  [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 196.
+(Font)              <9> on input line 181.
  [6]
-Overfull \hbox (9.16711pt too wide) in paragraph at lines 225--225
+Overfull \hbox (9.16711pt too wide) in paragraph at lines 210--210
 []\T1/pcr/m/n/10 \caption{The effects of treatments X and Y on the four groups 
 studied.}[] 
  []
 
-[7] <Figures/Electron.pdf, id=333, 398.3386pt x 284.52756pt>
+[7] <Figures/Electron.pdf, id=325, 398.3386pt x 284.52756pt>
 File: Figures/Electron.pdf Graphic file (type pdf)
 
 <use Figures/Electron.pdf>
-Package pdftex.def Info: Figures/Electron.pdf used on input line 262.
+Package pdftex.def Info: Figures/Electron.pdf used on input line 247.
 (pdftex.def)             Requested size: 398.33762pt x 284.52686pt.
- [8 <./Figures/Electron.pdf>] [9])
-(./Appendices/AppendixA.tex [10]
+ [8 <./Figures/Electron.pdf>])
+(./Appendices/AppendixA.tex [9] [10
+
+]
 Appendix A.
 --------------------
  A. Appendix Title Here
 --------------------
-) [11
-
-] [12
+) [11] [12
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
  [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 269.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 269.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5A6A0FB374FD602717C645A200C303E9;4615.
+(rerunfilecheck)             Checksum: 2027DE2F64057525C6EED75A5A3AC19A;4360.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25381 strings out of 493304
- 456758 string characters out of 6139870
- 606131 words of memory out of 5000000
- 28403 multiletter control sequences out of 15000+600000
- 59441 words of font info for 110 fonts, out of 8000000 for 9000
+ 25352 strings out of 493304
+ 456365 string characters out of 6139870
+ 605385 words of memory out of 5000000
+ 28380 multiletter control sequences out of 15000+600000
+ 54174 words of font info for 94 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 47i,12n,59p,10402b,1620s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,12n,59p,10402b,1725s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
@@ -1667,10 +1562,10 @@ er/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on main.pdf (37 pages, 213602 bytes).
+Output written on main.pdf (37 pages, 213068 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
- 80 named destinations out of 1000 (max. 500000)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 485 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 

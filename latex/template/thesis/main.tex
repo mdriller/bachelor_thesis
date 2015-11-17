@@ -58,15 +58,13 @@ singlespacing, % Single line spacing, alternatives: onehalfspacing or doublespac
 
 \subject{} % Your subject area, this is not currently used anywhere in the template, print it elsewhere with \subjectname
 \keywords{} % Keywords for your thesis, this is not currently used anywhere in the template, print it elsewhere with \keywordnames
-\university{\href{http://department.university.com}{{Freie Universität Berlin}} % Your university's name and URL, this is used in the title page and abstract, print it elsewhere with \univname
-\department{\href{http://department.university.com}{Department or School Name}} % Your department's name and URL, this is used in the title page and abstract, print it elsewhere with \deptname
-\group{\href{http://researchgroup.university.com}{Research Group Name}} % Your research group's name and URL, this is used in the title page, print it elsewhere with \groupname
+\university{\href{http://department.university.com}{Freie Universität Berlin}} % Your university's name and URL, this is used in the title page and abstract, print it elsewhere with \univname
+\department{\href{http://department.university.com}{(BeGenDiv)}} % Your department's name and URL, this is used in the title page and abstract, print it elsewhere with \deptname
+\group{\href{http://researchgroup.university.com}{Berlin Center for Genomics in Biodiversity Research}} % Your research group's name and URL, this is used in the title page, print it elsewhere with \groupname
 \faculty{\href{http://faculty.university.com}{Faculty Name}} % Your faculty's name and URL, this is used in the title page and abstract, print it elsewhere with \facname
-
 \hypersetup{pdftitle=\ttitle} % Set the PDF's title to your title
 \hypersetup{pdfauthor=\authorname} % Set the PDF's author to your name
 \hypersetup{pdfkeywords=\keywordnames} % Set the PDF's keywords to your keywords
-
 \begin{document}
 
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
@@ -155,7 +153,7 @@ singlespacing, % Single line spacing, alternatives: onehalfspacing or doublespac
 \begin{abstract}
 \addchaptertocentry{\abstractname} % Add the abstract to the table of contents
 
-\noindent The presence of mitochondrial DNA fragments within the nuclear genome (numts) has been observed in a variety of organisms. Those numts are most likely integrated into the nuclear genome via non-homologous end joining (NHEJ) during the repairs if double-strand breaks and represent ancestrial mitochondrial DNA fragments. Numts can occur in different lengths, multiple copies and vary in their homology depending on their insertion age. The presence of numts may lead to problems like coamplification and misinterpretation for mutations in the mitochondrial genome but they also present an opportunity to gain new information on phylogenetics.
+\noindent The presence of mitochondrial DNA fragments within the nuclear genome (numts) has been observed in a variety of organisms. Those numts are most likely integrated into the nuclear genome via non-homologous end joining (NHEJ) during the repairs if double-strand breaks and represent ancestrial mitochondrial DNA fragments. Numts can occur in different lengths, multiple copies and vary in their homology depending on their insertion age. The presence of numts may lead to problems like coamplification and misinterpretation for mutations in the mitochondrial genome but they also present an opportunity to gain new information on phylogenetics.\bigbreak
 
 \noindent The aim of this thesis is to assemble the mitochondrial genomes of four of the six non distinct sloth species from whole genome sequencing NGS data and use those mitochondrial genomes to identify and characterize numts in (at least) one of those species The numts will then be phylogenetically compared to the mitochondrial genomes to gain information on the phylogenetics within sloths and the numts themselves.\ldots
 
@@ -169,6 +167,7 @@ singlespacing, % Single line spacing, alternatives: onehalfspacing or doublespac
 \addchaptertocentry{\acknowledgementname} % Add the acknowledgements to the table of contents
 
 The acknowledgements and the people to thank go here, don't forget to include your project advisor\ldots
+
 
 \end{acknowledgements}
 
@@ -240,7 +239,7 @@ $\omega$ & angular frequency & \si{\radian} \\
 % Uncomment the lines as you write the chapters
 
 \input{Chapters/Chapter1}
-%\input{Chapters/Chapter2} 
+\input{Chapters/Chapter2} 
 %\input{Chapters/Chapter3}
 %\input{Chapters/Chapter4} 
 %\input{Chapters/Chapter5} 
